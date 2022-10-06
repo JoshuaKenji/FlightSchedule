@@ -1,0 +1,3 @@
+0;Hirenji;9;1;Economy;y;window
+1;Joshua.Kenji;10;2;Economy;y;random
+2;Joshua.Kenji;10;2;Economy;y;window

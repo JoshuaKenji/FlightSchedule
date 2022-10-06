@@ -1,0 +1,15 @@
+AMG100;Kuala Lumpur;Jakarta;17 November 2021;17:00 UTC+8;17 November 2021;19:15 UTC+8;25 November 2021;18:00 UTC+8;25 November 2021;20:00 UTC+8;RM 60;Economy
+AMG111;Kuala Lumpur;Singapore;20 November 2021;19:00 UTC+8;20 November 2021;20:00 UTC+8;26 November 2021;19:00 UTC+8;26 November 2021;20:00 UTC+8;RM 50;Economy
+AMG123;Riyadh;Kuala Lumpur;23 November 2021;19:00 UTC+8;24 November 2021;05:30 UTC+8;27 November 2021;18:00 UTC+8;28 November 2021;04:00 UTC+8;RM 600;Business class
+AMG222;Singapore;Kuala Lumpur;23 November 2021;12:45 UTC+8;23 November 2021;14:00 UTC+8;28 November 2021;19:00 UTC+8;28 November 2021;20:00 UTC+8;RM 850;Business class
+AMG234;Singapore;Beijing;23 November 2021;10:00 UTC+8;23 November 2021;20:10 UTC+8;29 November 2021;10:00 UTC+8;29 November 2021;20:00 UTC+8;RM 440;Business class
+AMG333;Kuala Lumpur;Tokyo;25 November 2021;20:00 UTC+8;26 November 2021;02:15 UTC+8;30 November 2021;10:00 UTC+8;30 November 2021;16:00 UTC+8;RM 300;Economy
+AMG345;Tokyo;Monaco;25 November 2021;02:00 UTC+8;25 November 2021;17:15 UTC+8;1 December 2021;10:00 UTC+8;2 December 2021;01:00 UTC+8;RM 440;Business class
+AMG444;Jakarta;Singapore;26 November 2021;12:00 UTC+8;26 November 2021;13:55 UTC+8;2 December 2021;06:00 UTC+8;2 December 2021;08:00 UTC+8;RM 50;Ecoomy
+AMG456;Jakarta;Washington DC;26 November 2021;12:00 UTC+8;27 November 2021;09:30 UTC+8;3 December 2021;12:00 UTC+8;4 December 2021;09:30 UTC+8;RM 230;Economy
+AMG555;New Delhi;Kuala Lumpur;28 November 2021;06:00 UTC+8;28 November 2021;11:30 UTC+8;5 December 2021;07:30 UTC+8;5 December 2021;14:00 UTC+8;RM 430;Economy
+
+
+AMG698;China;Bangladesh;13 January 2022;13:00 UTC+8;13 January 2022;19:00 UTC+8;28 January 2022;10:00 UTC+8;28 January 2022;16:00 UTC+8;RM600;Business class
+AMG999;Tokyo;Amsterdam;12 December 2021;05:00 UTC+8;12 December 2021;20:00 UTC+8;22 December 2021;10:00 UTC+8;23 December 2021;01:00 UTC+8;RM500;Economy
+AMG555;New York;Kuala Lumpur;28 November 2021;09:00 UTC+8;29 November 2021;03:00 UTC+8;15 November;06:00 UTC+8;16 November 2021;02:00 UTC+8;RM 600;Business
